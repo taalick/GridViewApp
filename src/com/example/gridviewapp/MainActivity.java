@@ -14,7 +14,7 @@ import android.view.*;
 
 public class MainActivity extends Activity {
 
-	String[] countries = { "Brasilia", "Аргентина", "Чили", "Колумбия",
+	String[] countries = { "Brasilia", "Argentina", "Чили", "Колумбия",
 			"Уругвай", "Парагвай" };
 
 	@Override
